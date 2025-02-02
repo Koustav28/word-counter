@@ -1,1 +1,1 @@
-# word-counter
+# Word Counter using HTML, CSS, JS
